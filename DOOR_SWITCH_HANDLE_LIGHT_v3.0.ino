@@ -1,4 +1,4 @@
-#include <Adafruit_NeoPixel.h>
+#include <Adafruit_NeoPixel.h> // You must install Adafruit NeoPixel library before compiling
  
 //You can have fun here changing the colors for the code
 #define PIN 11 // Sets NanoPixel Data Pin
