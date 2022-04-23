@@ -2,7 +2,7 @@
  
 //You can have fun here changing the colors for the code
 #define PIN 11 // Sets NanoPixel Data Pin
-int doorSwitch = 2; // Pin for Door Switch
+int doorSwitch = 2; // Pin for Door Switch - Connect other switch wire to GROUND input on board
 int fadeTimeRamp = 50; // First Stage Ramp
 int fadeTime = 24; // Second Stage Ramp
 int LEDstep = 2; // Second Stage Increments
